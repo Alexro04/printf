@@ -1,2 +1,3 @@
 # printf
-A printf function similar to the original in c programming
+A similar function to the printf in C standard library
+
